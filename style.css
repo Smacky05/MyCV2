@@ -1,0 +1,38 @@
+body {
+    background-color:peachpuff;
+    font-family: Audiowide, sans-serif;
+}
+
+hr   {
+    width: 100%;
+    border-style: dashed none none;
+    border-width: 50%;
+    border-color: crimson;
+    /* background-color: transparent; */
+}
+
+img {
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 0, 8);
+}
+
+h3 {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(255, 73, 146);
+}
+
+a {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 73, 146);
+}
+
+img:hover {
+    background-color: rgb(2, 253, 2);
+}
+
